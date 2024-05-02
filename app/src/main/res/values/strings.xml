@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TapTap</string>
+    <string name="scoretitle">Score</string>
+    <string name="score">0</string>
+    <string name="gameover">Game Over !</string>
+    <string name="congrats">Congratulations !</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="wrongmoves">Wrong Moves Left : </string>
+    <string name="goback">Back</string>
+    <string name="play">Play Now</string>
+    <string name="home">Home</string>
+    <string name="welcome">Welcome !</string>
+    <string name="paused">Paused</string>
+</resources>
